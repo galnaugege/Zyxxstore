@@ -3,7 +3,7 @@ const qrisURL = "https://telegra.ph/file/fd7653b053f71617fcb84.jpg";
 
 // GANTI PAKE LINK FOTO QRIS LU
 
-const qrisURL2 = "https://telegra.ph/file/fd7653b053f71617fcb84.jpg";
+const qrisURL2 = "https://telegra.ph/file/ddd83c5a9e501cf97fb18.jpg";
 
 // GANTI PAKE FOTO BACKGROUND LU
 const backgroundURL = "https://telegra.ph/file/ddd83c5a9e501cf97fb18.jpg";
