@@ -23,6 +23,9 @@ document.getElementById("background-container").style.backgroundImage = `url('${
 // Set QRIS link
 document.getElementById("qris-link").href = qrisURL;
 
+// Set QRIS link
+document.getElementById("qris-link1").href = qrisURL1;
+
 // Fungsi untuk menyalin nomor saat tombol ditekan
 function copyToClipboard(paymentType) {
     if (paymentData[paymentType]) {
