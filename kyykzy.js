@@ -1,16 +1,16 @@
 // GANTI PAKE LINK FOTO QRIS LU
-const qrisURL = "https://telegra.ph/file/fd7653b053f71617fcb84.jpg";
+const qrisURL = "https://deposit.pictures/p/a5bc88dd532641c793aa4f94ea60cb61";
 
 // GANTI PAKE LINK FOTO QRIS LU
 
-const qrisURL1 = "https://telegra.ph/file/ddd83c5a9e501cf97fb18.jpg";
+const qrisURL1 = "https://deposit.pictures/p/babf35f5b5b7491eade25da2b4e22b85";
 
 // GANTI PAKE FOTO BACKGROUND LU
-const backgroundURL = "https://telegra.ph/file/ddd83c5a9e501cf97fb18.jpg";
+const backgroundURL = "https://deposit.pictures/p/9e2c649302ce466baee6df74633286be";
 
 // Data pembayaran yang bisa diubah
 const paymentData = {
-    Dana: "0881012391309", // NOPE DANA LU
+    Dana: "081232973559", // NOPE DANA LU
     Ovo: "0881012391309", // NOPE OVO LU
     Gopay: "0881012391309" // NOPE GOPAY LU
 }; //NOTE UBAH TAPI JAN APUS TANDA " NYA
